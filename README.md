@@ -14,6 +14,6 @@ MNIST Digit Classification using CNN
 🚀 Run the code 
 1. Clone this repo
 2. Run mnist_cnn.ipynb in Jupyter or Colab
-👨‍💻 Author
 
+👨‍💻 Author
 Mubeena(@Mubeena09)
